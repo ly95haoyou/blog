@@ -1,0 +1,35 @@
+---
+layout: post
+title: "markdown语法"
+date: 2015-11-21 10:24:02 +0800
+comments: true
+categories: test
+---
+# 您好,恨天
+## 您可以学到您想要的
+
+**加粗**
+
+`标量`
+
+- 列表1
+	- 列表11
+	- 列表12
+- 列表2
+- 列表3
+
+> 引用
+
+[百度](https://www.baidu.com)
+
+![图片](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png)
+{% video http://www.konghao.org/resources/video/java/03/04/09_1447853948853.mp4 640 320 https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png %}
+
+```
+public class Hello {
+	public static void main(String[] args) {
+		System.out.println("hello markdown语法");
+	}
+}
+```
+
